@@ -62,14 +62,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/Swapnil-Nigam11"><img alt="Github" title="Gaurav Singh Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Swapnil-Nigam11"><img alt="Github" title="Swapnil Nigam Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <p align="center">
-  <a href="www.linkedin.com/in/swapnil-nigam"><img alt="Linkedin" title="Gaurav Singh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/_.eila_._/"><img alt="Instagram" title="Gaurav Singh Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="www.linkedin.com/in/swapnil-nigam"><img alt="Linkedin" title="Swapnil Nigam Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/_.eila_._/"><img alt="Instagram" title="Swapnil Nigam Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:swapnil.nigam11@gmail.com"><img alt="Gmail" title="Gaurav Singh Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/Swapnil_Nigam11"><img alt="Twitter" title="Gaurav Singh Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:swapnil.nigam11@gmail.com"><img alt="Gmail" title="Swapnil Nigam Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/Swapnil_Nigam11"><img alt="Twitter" title="Swapnil Nigam Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
 <!--  For Animated horizontal lines -->
